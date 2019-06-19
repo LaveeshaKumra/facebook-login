@@ -1,0 +1,10 @@
+module.exports={
+facebook_api_key:"483736185697529",
+facebook_api_secret:"0b9ab3fcbe927c9ef2e2d23e97c0697e",
+callback_url:"http://localhost:3000/auth/facebook/callback",
+use_database:true,
+host:"localhost",
+username:"root",
+password:"",
+database:"fb"
+}
